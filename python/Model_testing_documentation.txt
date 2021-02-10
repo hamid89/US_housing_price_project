@@ -1,5 +1,7 @@
 # Model Appliaction Documentation
 
+The functions.ipynb file is complementary in order to run the some of the function on mid_project.ipynb. The both files should be in same directory and functions.ipynb called  in mid_project.ipynb
+
 1. Testing our model before making a lot of changes to the original data and transforming it to get an understanding of it 
 Steps taken: 
 	a) Categorical features > get dummies encoding
